@@ -1,0 +1,4 @@
+[behave]
+paths = **/acceptance
+junit_directory = reports
+junit = yes
